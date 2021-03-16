@@ -1,0 +1,96 @@
+.nav-bg {
+	background-color: #0F163F !important;
+}
+.table-bord {
+	border-left:1px solid gray !important;
+	border-right:1px solid gray !important;
+}
+.bg {
+	display:inline-block;
+	background-image:url("images/engine.jpg");
+	height:600px;
+	background-color:gray;
+	background-repeat:no-repeat;
+	background-position:center;
+	width:100%;
+	background-size: 1450px 650px;
+}
+.dashboard-bg{
+	background-color: #E4E1DC;
+	color:  #0F163F !important;
+}
+.submit {
+	margin:auto  !important;
+}
+.avatar{
+	border:3px solid #0F163F ;
+}
+.dark-avatar{
+	border:2px solid  #EAF3FA ;
+}
+.nav-color{
+	color: #0F163F ;
+}
+hr.line {
+	border:3px solid #333A69 ;
+	border-radius: 3px;
+	width:5%;
+	text-align:center;
+}
+hr.footer-line {
+	border:3px solid #4D4E53 ;
+	border-radius: 3px;
+	width:5%;
+	/*text-align:center;*/
+}
+hr.about-line {
+	border:3px solid #AECDFB ;
+	border-radius: 3px;
+	width:5%;
+	text-align:left;
+}
+#signin{
+	background-color: #333A69;
+}
+.steps{
+	background-color: #EAF3FA;
+
+}
+.input-bg{
+	background-color: #EAF3FA;
+
+}
+input[type="text"], input[type="password"],input[type="email"]{
+	border:2px solid #EAF3FA;
+}
+textarea{
+	border:2px solid #EAF3FA;
+}
+.icon {
+	color: #52B7EB !important;
+}
+.tech-icon{
+	color: #0F163F!important;
+}
+.footer-icon{
+	color:#4D4E53 !important;
+}
+.list-image{
+	list-style-image: url('images/res.png');
+}
+.serv-image{
+	border:1px solid #333A69 !important;
+}
+.frame{
+	border:1px solid #EAF3FA !important;
+}
+.btn-color{
+	background-color: #17345D;
+}
+.footer{
+	background-color: #0F163F;
+	color:#4D4E53;
+}
+.image{
+	border:3px solid #AECDFB;
+}
